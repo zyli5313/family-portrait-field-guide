@@ -10,7 +10,7 @@ The guide has three parts:
 
 ## The process in one paragraph
 
-You collect one clear photo of each person (and each pet), choose a scene, check the headcount and the canvas shape, confirm you have permission to use everyone's photos, and generate the portrait. Then you check every face and redo the ones that do not look right. The tool used as the example throughout is the [VibePico family photo maker](https://vibepico.com/family-photo-maker), which accepts one photo per person and fits up to eight people and three pets in one scene.
+You collect one clear photo of each person (and each pet), choose a scene, check the headcount and the canvas shape, confirm you have permission to use everyone's photos, and generate the portrait. Then you check every face and redo the ones that do not look right. The tool used as the example throughout is the [VibePico family photo maker](https://vibepico.com/family-photo-maker), which takes a separate upload for every family member and has room for as many as eight people plus three pets.
 
 ## Why separate photos work
 

@@ -17,7 +17,7 @@ Small groups suit tall portrait canvases; large groups and groups with pets suit
 
 ## Use a prompt when you want something specific
 
-If none of the scenes is exactly right, start from a written description. The [family photo prompt library](https://vibepico.com/family-photo-prompts) has ready-made descriptions you can adapt, such as a cosy Christmas living room or a snowy front yard.
+If none of the scenes is exactly right, start from a written description. The [family photo prompt library](https://vibepico.com/family-photo-prompts) has ready-made descriptions you can adapt, such as a winter living room with a tree or a front garden under snow.
 
 ## Check before sharing
 
