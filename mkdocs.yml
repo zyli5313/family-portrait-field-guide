@@ -1,0 +1,9 @@
+site_name: Separate Photos to One Family Portrait
+site_description: A field guide to turning one photo per person into a single family portrait, with notes on preparing photos and choosing a scene.
+site_url: https://family-portrait-field-guide.readthedocs.io/en/latest/
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Preparing the Photos: preparing-photos.md
+  - Choosing a Scene: choosing-a-scene.md
